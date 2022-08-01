@@ -1,0 +1,7 @@
+[
+   {
+       "text": "What is age of Brad Pitt",
+       "intent": "MIKO.INTENT.PERSON_AGE",
+       "skill_id": "0"
+   }
+]

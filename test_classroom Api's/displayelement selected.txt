@@ -1,0 +1,94 @@
+{
+ "version": "2.8-50-44-3",
+ "session": {
+   "new": null,
+   "sessionId": "NTIUmNOLmyqF4GmnUSlBNp5Naj++t/I7ZG7YBtLNt7g=",
+   "user": {
+     "userId": "00098E",
+     "accessToken": "9edb1014641da20a3936c7a4dca1c5da",
+     "permissions": null
+   },
+   "attributes": {
+     "voice": "Sharona",
+     "voice_alias": "Sharona",
+     "bot_preference": {
+       "region_code": "US",
+       "voice_alias": "Sharona",
+       "voice": "Sharona",
+       "preferred_country": "US"
+     },
+     "timezone": "America/Los_Angeles",
+     "primary_locale": "en-US",
+     "childAge": "2",
+     "bot_location": {
+       "username": "",
+       "country_code": "US",
+       "region_code": "MH",
+       "city": "Mumbai",
+       "latitude": null,
+       "longitude": null,
+       "ipaddress": "",
+       "timezone": "America/Los_Angeles",
+       "timezone1": "Asia/Kolkata",
+       "rawUserLocation": {
+         "username": null,
+         "key": "user_location",
+         "create_date": "2021-10-31T17:34:15.198457",
+         "updated_date": "2022-05-04T06:03:04.097116",
+         "value": {
+           "ip": null,
+           "zip": null,
+           "city": "New York",
+           "currency": {},
+           "latitude": null,
+           "location": {},
+           "timezone": "America/Los_Angeles",
+           "username": null,
+           "longitude": null,
+           "time_zone": {},
+           "timezone1": "America/Los_Angeles",
+           "connection": {},
+           "region_code": "MH",
+           "region_name": null,
+           "country_code": "US",
+           "country_name": "United States",
+           "continent_code": null,
+           "continent_name": null
+         }
+       },
+       "country_name": "United States",
+       "preferredCountry": "US"
+     },
+     "service_version": "50",
+     "preferred_country": "US",
+     "childDOB": "2020-02-04",
+     "TTM_SKILL": "0",
+     "childName": "Ref",
+     "KW_SKILL": "[10, 10]",
+     "user_time": "2022-05-19 04:27:25",
+     "secondary_locale": "[en-US]",
+     "username": "00098E",
+     "region_code": "US",
+     "graph_metadata": "eyJ1c2VyX2dyYXBocyI6e30sInVzZXJfZ3JhcGhzX2Zsb3ciOltdLCJlbnRyeV9ub2RlX2Zsb3ciOltdLCJub2RlX2Zsb3ciOltdLCJkdF90aW1lc3RhbXAiOjAsInN0YXJ0X2dyYXBoX21lc3NhZ2VfYWRkZWQiOmZhbHNlLCJlbmRfb25fZ3JhcGhfZW5kIjpmYWxzZSwidHJhbnNsYXRlIjpmYWxzZX0=",
+     "intent_entity": [
+       null
+     ],
+     "query": null,
+     "reframe_query": null,
+     "city": null,
+     "game_id": null,
+     "max_status": null
+   },
+   "application": {
+     "applicationId": "10"
+   }
+ },
+ "context": null,
+ "request": {
+   "type": "Display.ElementSelected",
+   "requestId": "2",
+   "timestamp": null,
+   "locale": "en-US",
+   "token": "category/Boosters"
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "version": "2.8-50-44-3",
+ "session": {
+   "new": null,
+   "sessionId": "NTIUmNOLmyqF4GmnUSlBNp5Naj++t/I7ZG7YBtLNt7g=",
+   "user": {
+     "userId": "00098E",
+     "accessToken": "9edb1014641da20a3936c7a4dca1c5da",
+     "permissions": null
+   },
+   "attributes": {
+     "voice": "Sharona",
+     "voice_alias": "Sharona",
+     "bot_preference": {
+       "region_code": "US",
+       "voice_alias": "Sharona",
+       "voice": "Sharona",
+       "preferred_country": "US"
+     },
+     "timezone": "America/Los_Angeles",
+     "primary_locale": "en-US",
+     "childAge": "2",
+     "bot_location": {
+       "username": "",
+       "country_code": "US",
+       "region_code": "MH",
+       "city": "Mumbai",
+       "latitude": null,
+       "longitude": null,
+       "ipaddress": "",
+       "timezone": "America/Los_Angeles",
+       "timezone1": "Asia/Kolkata",
+       "rawUserLocation": {
+         "username": null,
+         "key": "user_location",
+         "create_date": "2021-10-31T17:34:15.198457",
+         "updated_date": "2022-05-04T06:03:04.097116",
+         "value": {
+           "ip": null,
+           "zip": null,
+           "city": "New York",
+           "currency": {},
+           "latitude": null,
+           "location": {},
+           "timezone": "America/Los_Angeles",
+           "username": null,
+           "longitude": null,
+           "time_zone": {},
+           "timezone1": "America/Los_Angeles",
+           "connection": {},
+           "region_code": "MH",
+           "region_name": null,
+           "country_code": "US",
+           "country_name": "United States",
+           "continent_code": null,
+           "continent_name": null
+         }
+       },
+       "country_name": "United States",
+       "preferredCountry": "US"
+     },
+     "service_version": "50",
+     "preferred_country": "US",
+     "childDOB": "2020-02-04",
+     "TTM_SKILL": "0",
+     "childName": "Ref",
+     "KW_SKILL": "[10, 10]",
+     "user_time": "2022-05-19 04:27:34",
+     "secondary_locale": "[en-US]",
+     "username": "00098E",
+     "region_code": "US",
+     "graph_metadata": "eyJ1c2VyX2dyYXBocyI6e30sInVzZXJfZ3JhcGhzX2Zsb3ciOltdLCJlbnRyeV9ub2RlX2Zsb3ciOlsiZ19qb3VybmFsaXN0X2R1cGxpY2F0ZV8yX3N0YXJ0Il0sIm5vZGVfZmxvdyI6W3sibmFtZSI6Imdfam91cm5hbGlzdF9kdXBsaWNhdGVfMl9zdGFydCIsInR5cGUiOiJEaWFsb2d1ZUVudHJ5Tm9kZSIsInRpbWUiOjAuMCwiaW5kZXgiOjB9LHsibmFtZSI6InNfam91cm5hbGlzdF9kdXBsaWNhdGVfMl8xIiwidHlwZSI6IkRpYWxvZ3VlT3V0cHV0Tm9kZSIsInRpbWUiOjAuMCwiaW5kZXgiOjB9LHsibmFtZSI6InNfam91cm5hbGlzdF9kdXBsaWNhdGVfMl8xcmVwZWF0IiwidHlwZSI6IkRpYWxvZ3VlT3V0cHV0Tm9kZSIsInRpbWUiOjAuMCwiaW5kZXgiOjB9LHsibmFtZSI6InVfam91cm5hbGlzdF9kdXBsaWNhdGVfMl9yZXNvbmUiLCJ0eXBlIjoiRGlhbG9ndWVJbnB1dE5vZGUiLCJ0aW1lIjowLjAsImluZGV4IjowfV0sImRpYWxvZ3VlX25hbWUiOiJnX2pvdXJuYWxpc3RfZHVwbGljYXRlXzJfc3RhcnQ6U1RBUlRfRVZFTlQwIiwiZHN0YXRlIjp7IkRURVZFTlQiOjEsIkRJQUxPR1VFIjoyLCJRQSI6MywibW9kZSI6MiwibyI6Imdfam91cm5hbGlzdF9kdXBsaWNhdGVfMl9zdGFydCIsInN0YXRlIjoxLCJjaGF0X3N0YXRlIjowfSwiZGd2Ijp7Im5vZGUiOiJ1X2pvdXJuYWxpc3RfZHVwbGljYXRlXzJfcmVzb25lIiwibm9kZXR5cGUiOiJEaWFsb2d1ZUlucHV0Tm9kZSIsIm91dHB1dCI6IntcIiMjI0NFXCI6W3tcImRlbGF5XCI6XCJcIixcInJnYlwiOlwiXCIsXCJtb3Rpb25cIjpcIk1PVElPTjM5XCIsXCJzb3VuZFwiOlwiXCIsXCJ0ZXh0XCI6XCJIaSB0aGVyZSFcIixcImltYWdlXCI6XCJJTUc0NjJcIn1dfSB+fn4ge1wiIyMjQ0VcIjpbe1wiZGVsYXlcIjpcIlwiLFwicmdiXCI6XCJcIixcIm1vdGlvblwiOlwiTU9USU9OMjhcIixcInNvdW5kXCI6XCJcIixcInRleHRcIjpcIlRlbGwgbWUsIGlzIGl0IGdvb2Qgb3IgYmFkIHRvIGFsd2F5cyB0ZWxsIHRoZSB0cnV0aD9cIixcImltYWdlXCI6XCJJTUcyN1wifV19IiwicHJldl9ub2RlIjoiIiwibmV4dF9ub2RlIjoiIn0sImR0X3RpbWVzdGFtcCI6MCwic3RhcnRfZ3JhcGhfbWVzc2FnZV9hZGRlZCI6dHJ1ZSwiZW5kX29uX2dyYXBoX2VuZCI6ZmFsc2UsInRyYW5zbGF0ZSI6ZmFsc2UsImdyYXBoX2FuYWx5dGljcyI6eyJhcHBfaWQiOiJCb29zdGVycyIsImNoaWxkX2FnZSI6IjUiLCJxdWVzdGlvbl9uYW1lIjoiSG93XHUwMDI3cyBpdCBsaWtlIHRvIGFsd2F5cyB0ZWxsIHRoZSB0cnV0aD8iLCJub2RlX25hbWUiOiJ1X2pvdXJuYWxpc3RfZHVwbGljYXRlXzJfcmVzb25lIiwiZXZlbnRfbmFtZSI6IkdyYXBoIFN0YXJ0ZWQiLCJhcHBfbmFtZSI6IkJvb3N0ZXJzIiwiY291bnQiOiIzIiwiY29udGVudF9uYW1lIjoiZ19qb3VybmFsaXN0X2R1cGxpY2F0ZV8yX3N0YXJ0Iiwic2tpbGxfaWQiOiIxMCIsInByaW1hcnlfbG9jYWxlIjoiZW4tVVMiLCJ1c2VyX3R5cGUiOiJCb3QiLCJib3RfaWQiOiIwMDA5OEUiLCJkaXN0aW5jdF9pZCI6IjAwMDk4RSIsInRva2VuIjoiZmE5ZDU0YjUwODg1YzQzM2FlYmUyOWViMTQ0N2Q5NzYifX0=",
+     "intent_entity": [
+       {
+         "intentAsString": "null",
+         "reframeSentence": null,
+         "reframeFlag": null,
+         "switchIntent": false,
+         "additionalInfo": {},
+         "intent": null,
+         "text": null,
+         "skill_id": 0,
+         "original_text": null,
+         "reframe_sentence": null,
+         "reframe_flag": null,
+         "es_entity": null,
+         "pos": [],
+         "entities": [],
+         "contextual": false,
+         "error": "Detected null",
+         "switch_intent": false,
+         "additional_info": {}
+       }
+     ],
+     "display_text": "Howu0027s it like to always tell the truth?",
+     "query": "good",
+     "reframe_query": null,
+     "city": null,
+     "game_id": null,
+     "max_status": null
+   },
+   "application": {
+     "applicationId": "10"
+   }
+ },
+ "context": null,
+ "request": {
+   "type": "IntentRequest",
+   "requestId": "4",
+   "timestamp": null,
+   "locale": "en-US",
+   "dialogState": "COMPLETED",
+   "intent": {
+     "name": "DIALOGUE",
+     "slots": {
+       "query": {
+         "name": "query",
+         "value": "good",
+         "confirmationStatus": "NONE",
+         "resolutions": null
+       }
+     },
+     "confirmationStatus": null
+   }
+ }
+}

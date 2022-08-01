@@ -1,0 +1,66 @@
+{
+“genre” : “nursery rhymes”,
+“LANGUAGE_CODE” : “”,
+“MUSIC_LANGUAGE_NAME” : “”,
+“userlocation” : {
+        	"username": null,
+        		"key": "user_location",
+        		"create_date": "2021-11-21T03:51:59.041453",
+       		"updated_date": "2022-03-28T12:16:54.262896",
+        		"value": {
+            			"ip": "13.233.38.65",
+            			"zip": "",
+            			"city": "North York",
+            			"currency": {
+               	 		"code": "INR",
+                			"name": "IndianRupee",
+                			"plural": null,
+                			"symbol": "₹",
+                			"symbol_native": null
+           			 },
+            			"latitude": "19.14045",
+            			"location": {
+                			"is_eu": false,
+                			"capital": "NewDelhi",
+               			 "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+               	 		"geoname_id": "10290240",
+                			"calling_code": "+91",
+                			"country_flag": "https://ipgeolocation.io/static/flags/in_64.png",
+               			"country_flag_emoji": null,
+                			"country_flag_emoji_unicode": null
+            			},
+            			"timezone": "Asia/Kolkata",
+            			"username": null,
+            			"longitude": "72.88234",
+            			"time_zone": {
+                		"id": "Asia/Kolkata",
+                		"code": "Asia/Kolkata",
+               		"gmt_offset": 5.5,
+               		"current_time": "2021-10-1214:31:30.627+0530",
+                		"is_daylight_saving": false
+           		},
+            "timezone1": "America/Los_Angeles",
+            "connection": {
+                	"asn": null,
+                	"isp": "AmazonTechnologiesInc.(EC2)"
+            	 },
+            "region_code": "Maharashtra",
+            "region_name": "Maharashtra",
+            "country_code": "IN",
+            "country_name": "India",
+            "continent_code": "AS",
+            "continent_name": "Asia"
+        }
+    }
+}
+Response
+{
+    "status": "success",
+    "data": [{
+            "id": "-BlMT7kv",
+            "encrypted_media_url": "ID2ieOjCrwfgWvL5sXl4B1ImC5QfbsDybp2KRB0wqcaEBTKREEZqEOsrAvrlTdwQT/YyA7A5h8i5w8X98731HBw7tS9a8Gtq",
+            "song_title": "Chandhamama, Pt. 1",
+            "album_title": "Most Popular 40 Rhymes",
+            "duration": "115"
+        }]
+}

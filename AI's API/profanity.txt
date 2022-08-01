@@ -1,0 +1,9 @@
+{
+   "username":"000A35",
+   "input":[
+           {"language":"en","text":"illegal"}, {"language":"es","text":"Mexican"},
+           {"language":"ar","text":"إنه لقيط"}, {"language":"de","text":"danke"},
+           {"language":"zh","text":"danke"}, {"language":"fr","text":"danke"},
+           {"language":"it","text":"danke"}
+       ]
+}

@@ -1,0 +1,20 @@
+{
+   "username": "000E45",
+   "lang_code": "en-US",
+   "query": "play song by katy perry",
+   "intent_entity": [
+       {
+
+       }
+   ],
+   "es": [
+       {
+           "entity_name": "",
+           "entity_type": "",
+           "entity_name_cleaned": "chris hemsworth",
+           "entity_infobox": "infobox_actor",
+           "entity_match_score": 15,
+           "entity_wiki_score": 248
+       }
+   ]
+}
